@@ -1,0 +1,12 @@
+@startmul 
+
+class Player
+class LevelSystem
+class SFMLExtensions
+class Entity 
+
+Player --|> Entity 
+
+LevelSystem o-- SFMLExtensions
+
+@endlmul 
