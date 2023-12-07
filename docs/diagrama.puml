@@ -1,4 +1,4 @@
-@startmul 
+@startuml 
 
 class Player
 class LevelSystem
@@ -9,4 +9,4 @@ Player --|> Entity
 
 LevelSystem o-- SFMLExtensions
 
-@endlmul 
+@enduml

@@ -11,3 +11,13 @@
 ## Jugabilidad 
 
 Para esto el jugador iniciara uen uno de los extremos del laberinto y tendra que moverse con las teclas de flechas para poder moverse por la zona de color negro si tocar la zona de color blanco, si esto llega a pasar el jugador sera regresado a la linea de incio para comenzar de nuevo el nivel.
+
+![Ejemplo](https://i.ytimg.com/vi/vqc3C0sw_eI/hqdefault.jpg)
+
+## Controles 
+
+El jugador podra moverse atravez del tablero con las flechas del teclado
+
+## Diagrama 
+
+![](/docs/diagrama/diagrama.png)
