@@ -16,8 +16,22 @@ Para esto el jugador iniciara uen uno de los extremos del laberinto y tendra que
 
 ## Controles 
 
-El jugador podra moverse atravez del tablero con las flechas del teclado
+El jugador podra moverse atravez del tablero con las flechas del teclado.
 
 ## Diagrama 
 
 ![](/docs/diagrama/diagrama.png)
+
+## Contacto
+
+a22310199@ceti.mx
+![Ceti Imagen](https://www.colomos.ceti.mx/imagenes/conoceCeti/cetilogo.jpg)
+
+# Como instalar el juego 
+El proyecto esta desarrollado sobre MinGW64 utilizando Msys2
+
+Para instalar msys2 en vscode seguir el siguiente tutorial https://code.visualstudio.com/docs/cpp/config-ming
+
+Libreria que usamos SMFL
+
+https://packages.msys2.org/package/mingw-w64-x86_64-sfml
